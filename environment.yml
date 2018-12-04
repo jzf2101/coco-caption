@@ -1,0 +1,8 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-image
+  - matplotlib
+  - pylab
